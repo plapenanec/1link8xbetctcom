@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+8xbet - Nhà cái trực tuyến hàng đầu với hơn 1 triệu thành viên
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`8xbet <https://8xbetct.com/>`_ thành lập năm 2016, nhanh chóng khẳng định vị thế là một trong những nhà cái trực tuyến hàng đầu tại Việt Nam với hơn 1 triệu thành viên đăng ký. Được xây dựng bởi một nhóm doanh nhân trẻ đam mê cá cược trực tuyến, 8xbet nổi bật với giao diện thân thiện, kho trò chơi đa dạng và các chương trình khuyến mãi hấp dẫn. 8xbet cung cấp một loạt sản phẩm cá cược phong phú như cá cược thể thao, casino trực tuyến, slot game và xổ số, đáp ứng mọi nhu cầu của người chơi. Với dịch vụ khách hàng chuyên nghiệp và chính sách bảo mật cao, 8xbet mang lại trải nghiệm giải trí thú vị và an toàn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 2778A Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0988998888. 
 
-Contents
---------
+Email: admin@8xbetct.com. 
 
-.. toctree::
+Website: https://8xbetct.com/ 
 
-   usage
-   api
+#8xbet, #8x_bet, #8xbetct, #8xbet_ct, #nha_cai_8xbet, #8xbet_link, #link_vao_8xbet, #dang_ky_8xbet, #8xbet_dang_nhap, #tai_app_8xbet, #khuyen_mai_8xbet
